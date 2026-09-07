@@ -14,7 +14,7 @@
   <a href="https://github.com/Keyco55"><img src="https://img.shields.io/badge/GitHub-Keyco55-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Keyco55" /></a>
   <a href="https://www.youtube.com/@keyco55"><img src="https://img.shields.io/badge/YouTube-keyco55-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube keyco55" /></a>
   <a href="https://blog.naver.com/qjadn02"><img src="https://img.shields.io/badge/Naver_Blog-Development-03C75A?style=for-the-badge&logo=naver&logoColor=white" alt="Naver Blog" /></a>
-  <a href="https://www.instagram.com/sprinrainfa11s/"><img src="https://img.shields.io/badge/Instagram-@sprinrainfa11s-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram @sprinrainfa11s" /></a>
+  <a href="https://www.instagram.com/springrainfa11s/"><img src="https://img.shields.io/badge/Instagram-@springrainfa11s-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram @springrainfa11s" /></a>
 </div>
 
 <br />
