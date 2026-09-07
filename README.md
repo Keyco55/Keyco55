@@ -93,9 +93,13 @@
 
 <div align="center">
 
-## ◌ GitHub Activity
+## ◌ GitHub Contributions
 
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Keyco55&theme=github_dark" width="100%" alt="Keyco55 GitHub activity summary" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Keyco55/Keyco55/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Keyco55/Keyco55/output/github-contribution-grid-snake-light.svg" />
+    <img src="https://raw.githubusercontent.com/Keyco55/Keyco55/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Keyco55 GitHub contribution grid animation" />
+  </picture>
 
   <br />
 
